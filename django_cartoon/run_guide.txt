@@ -1,0 +1,9 @@
+in django_cartoon file,
+
+in terminal 
+
+1.  pip install -r requirements.txt
+
+2.  python manage.py runserver
+
+3.  http://127.0.0.1:8000/api/       send image to this url 
